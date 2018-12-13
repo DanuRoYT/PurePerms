@@ -2,7 +2,7 @@
 # PurePerms by 64FF00 (xktiverz@gmail.com, @64ff00 for Twitter)
 
 ---
-messages-version: "1.4.0_01"
+messages-version: "1.7.0_01"
 language: "en"
 cmds:
   addgroup:
